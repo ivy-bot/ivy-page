@@ -5,7 +5,6 @@ Disclaimer: This is hackathon code in the truest sense, please don't expect scal
 We won 1st place at [HackZurich](http://hackzurich.com/) 2016!
 Thank you so much to all the organizers and participants for this incredible experience. 
 
-To try it out see: https://ivybot.co/  
 For an example see: https://www.youtube.com/watch?v=_2B_P9cFqLY  
 For the actual pitch see: https://www.youtube.com/watch?v=zLyxq9hRDRk  
 
