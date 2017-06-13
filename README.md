@@ -8,12 +8,12 @@ Thank you so much to all the organizers and participants for this incredible exp
 For an example see: https://www.youtube.com/watch?v=_2B_P9cFqLY  
 For the actual pitch see: https://www.youtube.com/watch?v=zLyxq9hRDRk  
 
-###What is it?
+### What is it?
 
 Ivy is a website building bot that listens to the description of your website, and then designs that website for you.
 
 
-###How to use it?
+### How to use it?
 Note - Ivy uses a lot of machine learning to understand what you say to her. The following are just examples of commands you might want to use. To ensure that Ivy understands you properly, you should make your commands somehow similar and always ask for only one thing at a time.
 
 To select a tempate - this has to be your first step
@@ -34,12 +34,12 @@ To change color
 To show articles 
 - "show me some articles"
 
-###Limitations
+### Limitations
  - Unfortunetaly Ivy does not work out of the box. You have to supply your own API keys (you can set them in ```tools/ENV_VARS.js```)
  - The same goes for the [LUIS](https://www.microsoft.com/cognitive-services/en-us/language-understanding-intelligent-service-luis) models that we used. You have to supply your own, although we will soon be uploading ours.
  - Finally, make sure to use Ivy on Google Chrome as it uses the Google Web API for speech recognition, which as of right now only works on Google Chrome.
  
-###Contributors
+### Contributors
 - Michael Vakoč - https://www.facebook.com/michael.vakoc
 - Rene Brandel - https://www.facebook.com/rbrandel
 - Julian Brendl - https://www.facebook.com/julian.brendl
